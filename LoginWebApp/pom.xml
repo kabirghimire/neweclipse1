@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.eidiko</groupId>
   <artifactId>LoginWebApp</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>LoginWebApp Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -18,4 +17,5 @@
   <build>
     <finalName>LoginWebApp</finalName>
   </build>
+  <packaging>war</packaging>
 </project>
